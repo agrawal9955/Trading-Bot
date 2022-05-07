@@ -1,0 +1,7 @@
+numpy==1.22.3
+python-telegram-bot
+binance
+python-binance
+urllib3
+requests
+pandas

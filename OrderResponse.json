@@ -1,0 +1,24 @@
+{
+    "symbol": "ETHUSDT",
+    "orderId": 8649901068,
+    "orderListId": -1,
+    "clientOrderId": "jZItaKaStUIlBqQqzuPrcb",
+    "transactTime": 1650486508386,
+    "price": "0.00000000",
+    "origQty": "0.00760000",
+    "executedQty": "0.00760000",
+    "cummulativeQuoteQty": "23.28647600",
+    "status": "FILLED",
+    "timeInForce": "GTC",
+    "type": "MARKET",
+    "side": "BUY",
+    "fills": [
+        {
+            "price": "3064.01000000",
+            "qty": "0.00760000",
+            "commission": "0.00000760",
+            "commissionAsset": "ETH",
+            "tradeId": 806999477
+        }
+    ]
+}

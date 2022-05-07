@@ -1,0 +1,16 @@
+{
+    "maxActiveTrades": 1,
+    "settlementCurrency": "USDT",
+    "startBalance": 100,
+    "percentDeployedCapital": 90,
+    "strategy": "ma_with_defined_rr",
+    "controller": "telegram",
+    "exchange": "binance",
+    "isTestBot": true,
+    "whitelist": [
+        "SOLUSDT"
+    ],
+    "blacklist": [],
+    "riskToReward": 0.5,
+    "leverage": 20
+}
